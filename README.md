@@ -7,7 +7,7 @@
 
 Nesse projeto você encontra um PetShop completo para atender seu gatinho ou cachorrinho! 
 
-# Para testar, não esquecer de dar drop na primeira vez que for dar o run no workbench!
+# Para testar, não esquecer de dar drop na primeira vez que for dar o run no workbench! E o código em Java precisa do código do Workbench funcionando.
 
 # Autores
 
