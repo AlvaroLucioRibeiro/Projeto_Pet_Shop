@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.inatel"},{"l":"br.inatel.DAO"},{"l":"br.inatel.Model"},{"l":"br.inatel.Model.Exceptions"}];updateSearchResults();
